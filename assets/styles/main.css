@@ -9,4 +9,7 @@ body {
   header {
     margin-bottom: 20px;
   }
+  .footer-widget {
+    padding: 10px;
+  }
   
