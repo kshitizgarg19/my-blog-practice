@@ -12,4 +12,7 @@ body {
   .footer-widget {
     padding: 10px;
   }
+  .footer-widget-title {
+    font-weight: bold;
+  }
   
